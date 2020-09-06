@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# 只要10分钟你也可以造火箭
 
-You can use the [editor on GitHub](https://github.com/zhvala/zhvala.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 目录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 纸上谈兵
 
-### Markdown
+[【纸上谈兵-实时消息系统】0-序言](posts/real_time_messaging_service/0.foreword.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 免责声明
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhvala/zhvala.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这个仓库里的所有内容都是我家猫随便在键盘上踩出来的，不代表本人观点，本人不负任何责任。
